@@ -1,2 +1,2 @@
-# first-program-javascript
-my first program in javascript
+# first-script-javascript
+my first script in javascript
